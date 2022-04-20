@@ -8,3 +8,4 @@
 lyuna14789/lyuna14789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+convert -flop my_icon.png my_icon_rtl.png$ git clone https://github.com/google/material-design-icons/
